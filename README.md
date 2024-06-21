@@ -1,6 +1,8 @@
-## Hi there, I am Jolomolokolo 👋
+## Hi there, I'm Julian, also known as Jolomolokolo! 👋
 
-Welcome to my GitHub profile! I am a software developer with a passion for open source and collaborative projects.
+I'm a 16-year-old tech enthusiast from Germany who loves exploring various fields in technology. Whether it's CAD design, circuit board creation, web development, or coding in Python and JavaScript, I'm always experimenting and learning new things. I also have a strong interest in servers and virtualization, especially with Proxmox.
+
+I enjoy diving into new projects and pushing my boundaries to discover new possibilities. Feel free to reach out if you'd like to collaborate or chat about tech!
 
 ![Profilaufrufe](https://komarev.com/ghpvc/?username=jolomolokolo)
 
@@ -20,6 +22,15 @@ Welcome to my GitHub profile! I am a software developer with a passion for open 
 - 💼 Working on exciting projects that solve real-world problems.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about Python and web development.
+
+### My Skills
+
+- **Languages:** Python, JavaScript
+- **Web Development:** HTML, CSS, JavaScript
+- **CAD Design:** Experience with CAD software
+- **Circuit Boards:** Designing and working with PCBs
+- **Servers:** Setup and management
+- **Virtualization:** Proxmox
 
 Thanks for visiting my profile!
 
