@@ -11,7 +11,7 @@ I enjoy diving into new projects and pushing my boundaries to discover new possi
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jolomolokolo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jolomolokolo&layout=compact&theme=radical)
 
-![Wakatime Stats]https://github-readme-stats.hackclub.dev/api/wakatime?username=19535&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+![Wakatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=19535&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 
 <!-- ## GitHub Activity
